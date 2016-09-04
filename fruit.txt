@@ -1,5 +1,4 @@
 tangerine
-apple
 mango
 orange
 banana
